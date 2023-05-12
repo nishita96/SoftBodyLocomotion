@@ -8,7 +8,7 @@ Locomotion is also a busy research area, as this allows artists to depend on phy
 
 The soft body locomotion paper above presents soft body characters, without skeletons, that simulate deformation by using a finite element method (FEM) simulation. Their implementation has the following block diagram:
 
-<img src="https://github.com/nishita96/SoftBodyLocomotion/blob/main/fig1.png" width="500" height="300">
+<img src="https://github.com/nishita96/SoftBodyLocomotion/blob/main/fig1.png" width="700" height="250">
 
 Figure 1: Block diagram of the Soft Body Locomotion paper
 
