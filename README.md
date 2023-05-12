@@ -9,6 +9,7 @@ Locomotion is also a busy research area, as this allows artists to depend on phy
 The soft body locomotion paper above presents soft body characters, without skeletons, that simulate deformation by using a finite element method (FEM) simulation. Their implementation has the following block diagram:
 
 ![alt text](https://github.com/nishita96/SoftBodyLocomotion/blob/main/fig1.png | width=300)
+<img src="https://github.com/nishita96/SoftBodyLocomotion/blob/main/fig1.png" width="100" height="100">
 Figure 1: Block diagram of the Soft Body Locomotion paper
 
 We decided against using QPCC solver and replaced the locomotion controller with user input. We believe it is more interesting to a user to be able to manipulate the soft bodies and see the effect of the manipulation in generating locomotion. Here is an updated block diagram of our implementation:
